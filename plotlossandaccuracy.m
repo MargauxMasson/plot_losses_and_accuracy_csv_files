@@ -5,7 +5,7 @@ epoch = Losses(:, 1);
 loss = Losses(:, 2);
 plot(epoch, loss)
 
-title('CNN1 with batch size = 512')
+title('CNN2 with batch size = 512')
 
 hold on
 
